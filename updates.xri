@@ -6,7 +6,7 @@
     </p>
    </description>
    <platform os="all" arch="noarch" version="1.8.8:1.9.9">
-      <package fileName="HLPAstroScripts.zip" sha1="c93a5c8034504d2cab41e5a0425d9c203b86118e" type="script" releaseDate="20241114">
+      <package fileName="HLPAstroScripts.zip" sha1="cb8e6e5c376748ca99538cdc159531b955fa8485" type="script" releaseDate="20241114">
          <title>
         HLP Astro Scripts
       </title>
